@@ -1,0 +1,20 @@
+{
+    "name": "lord/scraper",
+    "authors": [
+        {
+            "name": "amir tavakolian",
+            "email": "rezatva@gmail.com"
+        }
+    ],
+    "require": {
+	
+        "guzzlehttp/guzzle": "^7.0.1",
+     
+          "dmore/chrome-mink-driver": "^2.8",
+        "fabpot/goutte": "^4.0",
+        "fruitcake/laravel-cors": "^2.0"
+		},
+    "require-dev": {
+        "behat/mink": "^1.9"
+    }
+}
